@@ -1,7 +1,6 @@
 # boardgame-searching-tool
 
-The main product of this repo is boardgame searching tool that users can search the types of boardgame that meets
-their types.
+The main product of this repo is boardgame searching tool that users can find boardgames that they want.
 Searching keywords include: Age, Genre, number of players, playing time and price of boardgame.
 Dataset for this tool is acquired from BoardGameGeek website which is large database for the boardgame.
 
