@@ -2,11 +2,13 @@
 
 The main product of this repo is boardgame searching tool that users can find boardgames that they want.
 Searching keywords include: Age, game categories, number of players, playing time and rating of games.
+Also, analysis of top 1000 ranking games is included. This analysis is based on the game ranking on Aug 10, 2021.
+(BGG ranking is updated on every mondy. Current ranking may differ from this analysis.)
 Dataset for this tool is acquired from BoardGameGeek website which is large database for the boardgame.
 
 
 ![image](bgg_tool.jpg)
-
+![image](analysis.PNG)
 
 ## Technologies
 -xml API
