@@ -8,7 +8,7 @@ Dataset for this tool is acquired from BoardGameGeek website which is large data
 
 
 ![image](bgg_tool.jpg)
-![image](analysis.PNG)
+![image](analysis.png)
 
 ## Technologies
 -xml API
@@ -20,7 +20,7 @@ Dataset for this tool is acquired from BoardGameGeek website which is large data
 -Tableau
 
 ## Process
-![image](process.PNG)
+![image](process.png)
 
 ## Difficulties
 -Using xml format API was challenge part in this project. 'xml.etree.ElementTree' module solve this problem for this project.
